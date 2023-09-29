@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-c2fc37412fc0461c8841922e69055c98
+  name: BLOSSOMS Online
+  url: http://blossoms.mit.edu/
+  weight: 1000
